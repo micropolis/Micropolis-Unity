@@ -18,7 +18,9 @@ For a [list of known issues see GitHub](https://github.com/bsimser/micropolis-un
 
 ## License
 
-This software is free software and licensed under the [Micropolis GPL License](https://github.com/bsimser/Micropolis/blob/master/LICENSE.md). 
+This software is free software and licensed under the [Micropolis GPL License](https://github.com/bsimser/Micropolis/blob/master/LICENSE.md).
+
+The name/term "MICROPOLIS" is a registered trademark of [Micropolis](https://www.micropolis.com) GmbH (Micropolis Corporation, the "licensor") and is licensed here to the authors/publishers of the "Micropolis" city simulation game and its source code (the project or "licensee(s)") as a courtesy of the owner under the [Micropolis Public Name License](MicropolisPublicNameLicense.md).
 
 ## History
 
